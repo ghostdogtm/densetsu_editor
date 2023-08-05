@@ -7,8 +7,6 @@ Editor for the Technos game - Nekketsu Kakutou Densetsu
 3. Click Save Current
 4. If you need to choose the next team, and do 2, 3 point again
 
-Special thanks to Alexei Kolesnikov for testing and support to the project.
-
 Note. When you switch teams without saving, the result will be reset.
 
 Tested on Nekketsu Kakutou Densetsu (J) nes rom.
